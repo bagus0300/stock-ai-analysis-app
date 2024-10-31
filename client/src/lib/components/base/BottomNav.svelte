@@ -22,7 +22,7 @@
 		<Icon icon="material-symbols:search" class="h-16 w-16 rounded px-4 py-2" />
 	</a>
 	<a
-		href="https://github.com/engageintellect"
+		href="https://github.com/bagus0300"
 		on:click={() => handleClick(1)}
 		class:active={$activeIndex === 1}
 	>
